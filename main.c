@@ -40,7 +40,8 @@
 
 int main(void)
 {
-    //hello there
     //hi friends -John
+    //hello there
+    // hi
     return 0;
 }

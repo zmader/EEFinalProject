@@ -128,7 +128,6 @@ int main(void)
         GenerateAsteroids("GRAPHICS_COLOR_GRAY", rand(), rand(), 5);
     }
 
-
     //Set Background to black, foreground to yellow
     Graphics_setBackgroundColor(&g_sContext, GRAPHICS_COLOR_BLACK);
     Graphics_setForegroundColor(&g_sContext, GRAPHICS_COLOR_YELLOW);
